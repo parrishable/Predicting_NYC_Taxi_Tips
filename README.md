@@ -13,3 +13,4 @@ The NYC Taxi and Limousine Commission data came from [NYC.gov](https://www.nyc.g
 ## Modeling and Evaluation
 A random forest model comprising 100 decision trees was used to determine feature importance in who would tip generously or not. The below plot shows that trip duration, distance, and the cost of a fare were the Top 3 most important factors in determining a generous tipper from a non-generous one. The overall model performed with 86% accuracy and 72% precision. 
 
+![NYCTLC_featimp](https://github.com/parrishable/Predicting_NYC_Taxi_Tips/assets/11165081/51dd8582-b251-4859-a391-6d1577b1749e)
